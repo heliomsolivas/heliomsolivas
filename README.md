@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Hélio Marcondes
 
-- 🔭 I’m currently working on [SoluCX](https://solucx.com.br/).
-- 🌱 I’m currently learning more about Flutter.
+- 🔭 I’m currently working on [E-Peça](https://www.e-peca.com.br/).
+- 🌱 I’m currently learning more Vue 3
 - 💬 Ask me about Front-end or any tech related stuff.
 - 📫 How to reach me: [Linkedin - Hélio Marcondes](https://www.linkedin.com/in/helio-marcondes/)
 
