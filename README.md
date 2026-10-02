@@ -1,17 +1,27 @@
-## Hi there 👋, I'm Hélio Marcondes
+# Hi, I'm Hélio Marcondes 👋
 
-- 🔭 I’m currently working on [E-Peça](https://www.e-peca.com.br/).
-- 🌱 I’m currently learning more Vue 3
-- 💬 Ask me about Front-end or any tech related stuff.
-- 📫 How to reach me: [Linkedin - Hélio Marcondes](https://www.linkedin.com/in/helio-marcondes/)
+**Senior Frontend Developer | Vue.js, Nuxt & TypeScript**
 
-<a href="https://stackexchange.com/users/3931171"><img src="https://stackexchange.com/users/flair/3931171.png" width="208" height="58" alt="perfil de haykou no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de haykou no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
+I'm a frontend developer based in Brazil with 10 years of experience building web applications, e-commerce platforms and dashboards.
 
-[![Linkedin: heliomsolivas](https://img.shields.io/badge/-heliomsolivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helio-marcondes/)](https://www.linkedin.com/in/helio-marcondes/)
-[![GitHub heliomsolivas](https://img.shields.io/github/followers/heliomsolivas?label=follow&style=social)](https://github.com/heliomsolivas)
+My focus is on maintainable code, performance, accessibility and a great user experience.
 
-<div align="center">
+### Main stack
 
-### Show some ❤️ by starring some of the repositories!
+- Vue 2/3, Nuxt 2/3/4, TypeScript and JavaScript
+- Pinia, Tailwind CSS and PrimeVue
+- REST, GraphQL and Apollo
+- Jest, Playwright, Git and CI/CD
+- AWS, Supabase, Vercel and Algolia
 
-</div>
+### Experience & current interests
+
+I've worked on products at E-Peça, Technopartner, Logcomex and SoluCX, with experience in SSR, technical SEO, analytics and observability.
+
+I'm currently building independent products and exploring practical AI integrations, including LLM-powered assistants, RAG and workflow automation.
+
+Open to remote Senior Frontend opportunities with Vue, Nuxt and TypeScript.
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/helio-marcondes/)
